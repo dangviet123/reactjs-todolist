@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.mt-15{
+  margin-top: 15px;
+}
+.dropdown-menu  li{
+  padding-left: 10px;
+}
+.mr-5{
+  margin-right: 15px;
+}
+th,td{
+  vertical-align: middle !important;
+}
+.ml-5{
+  margin-left: 5px;
+}
